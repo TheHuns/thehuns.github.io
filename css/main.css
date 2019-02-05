@@ -122,7 +122,7 @@
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url(/dist/img/meSmall.jpg);
+      background: url(../img/meSmall.jpg);
       width: 150px;
       height: 150px; } }
 
