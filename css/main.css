@@ -402,6 +402,7 @@ main#home h1 {
   }
   .about-page .container .block1 .pic-right{
     width: 100%;
+    order: -1;
   }
   .about-page .container .block2 {
     flex-direction: column;
