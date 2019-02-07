@@ -427,7 +427,13 @@ main#home h1 {
     margin-bottom: 1rem;
   }
   main#main-work .box p{
-    
+    padding-bottom: .5rem;
+  }
+  main#main-work .work-container{
+    margin: 2rem 1rem;
+  }
+  #main-work{
+    padding: 2rem 1rem;
   }
 
   .work-overlay{
