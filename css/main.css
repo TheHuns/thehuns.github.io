@@ -222,6 +222,12 @@ main#home h1 {
   height: 200px;
   width: 300px;
 }
+.work-container .box p {
+  margin-bottom: 0;
+}
+.work-container .box a {
+  color: #24d2e2;
+}
 
 #main-work {
   padding: 2rem 4rem;
