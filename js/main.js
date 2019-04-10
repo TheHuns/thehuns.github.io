@@ -32,14 +32,3 @@ function toggleMenu() {
     showMenu = false;
   }
 }
-// // add hover event to boxes on work page
-// $box.on("mouseenter", function(e) {
-//   e.target.css("background", "#fff");
-// });
-
-// submit temporary not working message
-const $submit = $("#contact-submit");
-
-$submit.on("click", function() {
-  alert("Sorry form not working just yet, please contact through E-mail.");
-});
