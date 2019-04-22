@@ -301,6 +301,9 @@ main#home h1 {
   padding: 2rem 1rem;
   text-align: center;
 }
+.contact-form .container .social-media h3 {
+  padding: 2rem;
+}
 
 .about-page {
   padding: 0;
